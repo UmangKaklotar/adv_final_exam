@@ -16,6 +16,7 @@ on users other wise you can just see all types of user
     <td><img src="assets/image/6.png" </td>
   </tr>
 </table>
+<td><img src="assets/image/7.png" </td>
 
 A new Flutter project.
 
